@@ -31,6 +31,4 @@ depend:
 	@echo "# LINE REQUIRED FOR MAKEDEPEND" >> Makefile
 
 # BEGIN DEPENDENCIES
-file_visitor.o: file_visitor.c file_visitor.h common.h
-main.o: main.c file_visitor.h common.h
 # LINE REQUIRED FOR MAKEDEPEND
